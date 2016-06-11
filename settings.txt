@@ -1,0 +1,8 @@
+[Credentials]
+; The bot needs its own account to run on (not yours)
+Email = EMAIL
+Password = PASSWORD
+
+[Permissions]
+; This need to be your id, not the bot's id.  The bot does not own the bot.  You do.
+OwnerID = ID
